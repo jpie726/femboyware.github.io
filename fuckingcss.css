@@ -5,14 +5,14 @@
     font-family: Outrun;
     font-size: 40px;
     text-align: center;
-    color: #FF80FF;
+    color: #00BFFF;
     text-shadow: 2px 4px #000000;
 }
 #two {
     font-family: Outrun;
     font-size: 80px; 
     text-align: center;
-    color: #FF80FF;
+    color: #00BFFF;
     text-shadow: 2px 4px #000000;
     top: 1;
 }
@@ -20,14 +20,19 @@
     font-family: Outrun;
     font-size: 65px; 
     text-align: center;
-    color: #FF80FF;
+    color: #00BFFF;
     text-shadow: 2px 4px #000000;
 }
+#gg {
+    font-family: Outrun; 
+    font-size: 40px;
+    text-align: left;
+    color: #00BFFF;
 div {
     font-family: Outrun;
     font-size: 65px; 
     text-align: center;
-    color: #FF80FF;
+    color: #00BFFF;
     text-shadow: 2px 4px #000000;
 }
 body {

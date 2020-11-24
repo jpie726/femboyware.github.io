@@ -1,15 +1,15 @@
-@font-face { font-family: Outrun; src: url('Outrun.otf'); } 
-@font-face { font-family: Gay; src: url('Fast.otf'); } 
+@font-face { font-family: Outrun; src: url('Fast.otf'); } 
+
 
 #one {
-    font-family: Gay;
+    font-family: Outrun;
     font-size: 40px;
     text-align: center;
     color: #FF80FF;
     text-shadow: 2px 4px #000000;
 }
 #two {
-    font-family: Gay;
+    font-family: Outrun;
     font-size: 80px; 
     text-align: center;
     color: #FF80FF;
@@ -17,14 +17,14 @@
     top: 1;
 }
 #three {
-    font-family: Gay;
+    font-family: Outrun;
     font-size: 65px; 
     text-align: center;
     color: #FF80FF;
     text-shadow: 2px 4px #000000;
 }
 div {
-    font-family: Gay;
+    font-family: Outrun;
     font-size: 65px; 
     text-align: center;
     color: #FF80FF;

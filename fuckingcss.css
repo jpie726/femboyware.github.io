@@ -3,14 +3,14 @@
 
 #one {
     font-family: Outrun;
-    font-size: 40px;
+    font-size: 55px;
     text-align: center;
     color: #00BFFF;
     text-shadow: 2px 4px #000000;
 }
 #two {
     font-family: Outrun;
-    font-size: 80px; 
+    font-size: 100px; 
     text-align: center;
     color: #00BFFF;
     text-shadow: 2px 4px #000000;
@@ -18,28 +18,10 @@
 }
 #three {
     font-family: Outrun;
-    font-size: 65px; 
+    font-size: 75px; 
     text-align: center;
     color: #00BFFF;
     text-shadow: 2px 4px #000000;
-}
-#gg {
-    font-family: Outrun; 
-    font-size: 40px;
-    text-align: left;
-    color: #00BFFF;
-    text-orientation: upright;
-    writing-mode: vertical-rl;
-    position: absolute
-}
-#ez {
-    font-family: Outrun; 
-    font-size: 40px;
-    text-align: right;
-    color: #00BFFF;
-    text-orientation: upright;
-    writing-mode: vertical-rl;
-    position: absolute
 }
 div {
     font-family: Outrun;

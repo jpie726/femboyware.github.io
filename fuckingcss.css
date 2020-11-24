@@ -29,6 +29,7 @@
     text-align: left;
     color: #00BFFF;
     text-orientation: upright;
+    writing-mode: vertical-rl;
 }
 div {
     font-family: Outrun;

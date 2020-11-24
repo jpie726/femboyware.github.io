@@ -101,7 +101,7 @@ body {
 }
 .glow {
         font-size: 70px;
-        color: #FF80FF;
+        color: #00BFFF;
         text-align: center;
         -webkit-animation: glow 1s ease-in-out infinite alternate;
         -moz-animation: glow 1s ease-in-out infinite alternate;
